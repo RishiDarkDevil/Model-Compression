@@ -1,7 +1,7 @@
 # Model Compression
 Here I discuss Neural Network Compression using two quite popular methods:
 - Singular Value Decomposition
-- Pruning
+- Weight Pruning
 
 ### Frameworks
 I used two new frameworks for this work:
